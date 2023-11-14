@@ -9,7 +9,7 @@ const Content = () => {
           <div className="text-center w-56 h-1 border-b-4 rounded-2xl border-indigo-600 mt-4 mb-12"></div>
         </div>
         <div className="w-full h-auto flex flex-wrap justify-evenly">
-          <div className="flex flex-col rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] ">
+          <div className="flex flex-col rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] mt-2 mb-2">
             <img
               className="hover:bg-gray-800 w-[100%] h-[200px]"
               src="https://assets.stickpng.com/images/62a74dfe223343fbc2207d02.png"
@@ -30,7 +30,7 @@ const Content = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] ">
+          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] mt-2 mb-2">
             <img
               className="hover:bg-gray-800 w-[100%] h-[200px]"
               src="https://assets.stickpng.com/images/613b64fe30e8530004ba3a03.png"
@@ -51,7 +51,7 @@ const Content = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] ">
+          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] mt-2 mb-2">
             <img
               className="hover:bg-gray-800 w-[100%] h-[200px]"
               src="https://www.bossdigital.tech/wp-content/uploads/2023/04/1631026680-logo-react-native.png"
@@ -72,7 +72,7 @@ const Content = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] ">
+          <div className="flex flex-col  rounded-2xl w-60 overflow-hidden border-blue-500 border-[2px] mt-2 mb-2">
             <img
               className="hover:bg-gray-800 w-[100%] h-[200px]"
               src="https://miro.medium.com/v2/resize:fit:2000/1*VEXMXDkq01cyq8GTpdcRLA.png"
